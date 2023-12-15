@@ -1,5 +1,5 @@
 #### phpMYAdmin
 
-  server: mysql
-  username : user
-  password: user
+    server: mysql
+    username : user
+    password: user
